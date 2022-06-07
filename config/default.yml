@@ -1,1 +1,8 @@
 # Write it!
+
+Devise/SetDefaultMailerSender:
+  Description: 'Set a default Mailer sender in your devise config initializer. config/initializers/devise.rb'
+  Enabled: pending
+  VersionAdded: '<<next>>'
+  Include:
+    - config/initializers/devise*.rb
