@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Write a short summary, because RubyGems requires one."
   spec.description = "Write a longer description or delete this line."
-  spec.homepage = "Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/cprodhomme/rubocop-devise"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
