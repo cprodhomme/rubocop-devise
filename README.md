@@ -7,7 +7,7 @@ Custom cops for Devise
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rubocop-devise', require: false
+gem 'rubocop-devise', require: false, github: 'cprodhomme/rubocop-devise'
 ```
 
 And then execute:
